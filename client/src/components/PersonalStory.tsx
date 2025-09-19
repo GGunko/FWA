@@ -152,7 +152,7 @@ export default function PersonalStory() {
         <div className="mt-8 text-center">
           <div className="h-1 bg-border w-full mb-4"></div>
           <p className="text-xs text-muted-foreground">
-            Personal Journey • School Assignment • Famicom Edition
+            Personal Journey • Famicom Edition
           </p>
         </div>
       </div>
