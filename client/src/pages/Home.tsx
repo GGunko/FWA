@@ -1,5 +1,5 @@
-import PersonalQuestionnaire from "@/components/PersonalQuestionnaire";
+import PersonalStory from "@/components/PersonalStory";
 
 export default function Home() {
-  return <PersonalQuestionnaire />;
+  return <PersonalStory />;
 }
