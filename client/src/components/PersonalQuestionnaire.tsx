@@ -4,7 +4,7 @@ import QuestionCard from './QuestionCard';
 import FamicomButton from './FamicomButton';
 
 const questions = [
-  "Why did you take IT as your course in college?",
+  "Why did you take Computer Science as your course in college?",
   "What is your \"Dream Job\"?",
   "How do you see yourself ten years from now?"
 ];
